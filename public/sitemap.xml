@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://viralstan.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://viralstan.com/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://viralstan.com/services/seo</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://viralstan.com/services/social-media-marketing</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://viralstan.com/services/ppc-advertising</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://viralstan.com/services/content-marketing</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://viralstan.com/services/email-marketing</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://viralstan.com/services/web-development</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://viralstan.com/blogs</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://viralstan.com/contact</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
